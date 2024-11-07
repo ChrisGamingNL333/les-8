@@ -1,0 +1,10 @@
+# prive bestanden
+priveBestand.pb 
+
+priveInformatie/
+
+# tijdelijke bestand
+*.meta
+
+# grote bestanden
+*.psd
